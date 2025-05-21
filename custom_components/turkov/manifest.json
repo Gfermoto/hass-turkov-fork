@@ -1,11 +1,11 @@
 {
   "domain": "turkov",
-  "name": "Turkov",
+  "name": "Turkov (Fork by Gfermoto)",
   "codeowners": ["@alryaz"],
   "config_flow": true,
-  "documentation": "https://github.com/alryaz/hass-turkov",
+  "documentation": "https://github.com/Gfermoto/hass-turkov-fork",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/alryaz/hass-turkov/issues",
+  "issue_tracker": "https://github.com/Gfermoto/hass-turkov-fork/issues",
   "loggers": ["turkov"],
   "requirements": [],
   "version": "2025.3.0"

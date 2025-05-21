@@ -79,20 +79,47 @@
       },
       "exhaust_temperature": {
         "name": "Температура вытяжного воздуха"
+      },
+      "indoor_temperature": {
+        "name": "Температура в помещении"
+      },
+      "indoor_humidity": {
+        "name": "Влажность в помещении"
+      },
+      "co2_level": {
+        "name": "Уровень CO2"
+      },
+      "current_temperature": {
+        "name": "Текущая температура"
+      },
+      "current_humidity": {
+        "name": "Текущая влажность"
+      },
+      "fan_speed": {
+        "name": "Скорость вентилятора"
+      },
+      "fan_mode": {
+        "name": "Режим вентилятора"
+      },
+      "target_temperature": {
+        "name": "Целевая температура"
+      },
+      "target_humidity": {
+        "name": "Целевая влажность"
       }
     },
     "switch": {
       "first_relay": {
-        "name": "Первое реле"
+        "name": "Состояние первого реле"
       },
       "second_relay": {
-        "name": "Второе реле"
+        "name": "Состояние второго реле"
       },
       "fireplace": {
-        "name": "Камин"
+        "name": "Состояние камина"
       },
       "humidifier": {
-        "name": "Увлажнитель"
+        "name": "Состояние увлажнителя"
       }
     }
   }
